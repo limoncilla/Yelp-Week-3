@@ -32,13 +32,13 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/kanvciU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/W6HhHWI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The video was a little hard to follow along because the auto layout stats flashed by really quickly. And I couldn't quite follow how to make the table rotate horizontally and fill the entire screen.
+The video was a little hard to follow along because the auto layout stats flashed by really quickly. And I couldn't quite follow how to make the table rotate horizontally and fill the screen correctly even after I set the constraints of the table to 0.
 
 ## License
 
